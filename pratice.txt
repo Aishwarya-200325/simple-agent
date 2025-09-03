@@ -1,0 +1,10 @@
+context = """
+Temperature controls the degree of randomness in token selection. Lower temperatures are good for prompts that expect a more deterministic response, while higher temperatures can lead to more diverse or unexpected results.
+Zero-shot Prompting: You ask the model to complete a task without giving any examples.
+Few-shot Prompting: You give the model a few examples before asking it to do a similar task.
+Chain-of-Thought (CoT) Prompting: You instruct the model to show its reasoning step-by-step before answering.
+Tree of Thought (ToT): Tree of Thought (ToT) is an advanced prompting method that allows a language model (LLM) to explore multiple reasoning paths like a decision tree, rather than just giving a single answer linearly like in Chain of Thought (CoT).
+
+
+
+"""
